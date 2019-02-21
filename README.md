@@ -24,4 +24,4 @@ TODO: Alexis Noé Ibarra García 2706506
 
 ## Licencia
 
-TODO: Agregar Licencia
+TODO: Licencia APACHE 2.0 
